@@ -1,0 +1,2 @@
+[workspace]
+members = ["task-1-feature"]
